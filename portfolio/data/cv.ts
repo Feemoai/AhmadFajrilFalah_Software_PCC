@@ -8,7 +8,7 @@ export const cv: CV = {
     location: "Semarang, Jawa Tengah, Indonesia",
     status: "Available",
     contacts: {
-      phone: "+62 895411605548",
+      phone: "(+62) 895411605548",
       email: "feryahmadfajrilfalah21@gmail.com",
       linkedin: "https://linkedin.com/in/ahmad-fajril-falah-a85850299/",
       website: "https://instagram.com/feemoai",
@@ -70,7 +70,7 @@ export const cv: CV = {
       role: "Active Member",
       start_date: "2026-01",
       end_date: null,
-      description: "Anggota UKM robotik di Politeknik Negeri Semarang.",
+      description: "Anggota Aktif UKM robotik di Politeknik Negeri Semarang.",
       highlights: [],
       category: "organization",
     },
@@ -79,7 +79,7 @@ export const cv: CV = {
       role: "Active Member",
       start_date: "2025-11",
       end_date: null,
-      description: "Aktif dalam kegiatan pengembangan teknologi dan komunitas IT.",
+      description: "Anggota Aktif UKM robotik di Politeknik Negeri Semarang.",
       highlights: [],
       category: "organization",
     },
@@ -88,7 +88,7 @@ export const cv: CV = {
       role: "Head of Web Programming Department",
       start_date: "2023-08",
       end_date: "2024-06",
-      description: "Memimpin divisi pemrograman web organisasi IT sekolah.",
+      description: "Memimpin divisi pemrograman web pada organisasi IT sekolah.",
       highlights: [
         "Memimpin tim lebih dari 20 anggota",
         "Mengajar dasar pemrograman website",
@@ -273,43 +273,22 @@ export const cv: CV = {
     {
       title: "MANIFEST ITS Competition",
       description: "Semifinalist Business Plan Competition — ranked #11 nationally",
-      image: "https://images.unsplash.com/photo-1540575467063-178a50c2df87?q=80&w=1000&auto=format&fit=crop",
+      image: "",
       year: 2024,
-      size: "large", // spans 2x2
+      size: "large",
     },
     {
       title: "OSBIT Leadership",
       description: "Leading the Web Programming Department with 20+ members",
-      image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=1000&auto=format&fit=crop",
+      image: "",
       year: 2024,
-      size: "tall", // spans 1x2
+      size: "tall",
     },
     {
       title: "Google Developer Group",
       description: "Active participation in GDG on Campus Udinus",
-      image: "https://images.unsplash.com/photo-1531482615713-2afd69097998?q=80&w=1000&auto=format&fit=crop",
+      image: "",
       year: 2026,
-      size: "medium", // spans 1x1
-    },
-    {
-      title: "Perintis Learning Camp",
-      description: "Scholarship program — academic and leadership development",
-      image: "https://images.unsplash.com/photo-1523240715630-974bb7ad1582?q=80&w=1000&auto=format&fit=crop",
-      year: 2025,
-      size: "medium",
-    },
-    {
-      title: "Robotic Evolution",
-      description: "Building the future with Polines Robotic Team",
-      image: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?q=80&w=1000&auto=format&fit=crop",
-      year: 2026,
-      size: "wide", // spans 2x1
-    },
-    {
-      title: "Design Exploration",
-      description: "Visual experiments with UI and Graphics",
-      image: "https://images.unsplash.com/photo-1558655146-d09347e92766?q=80&w=1000&auto=format&fit=crop",
-      year: 2025,
       size: "medium",
     },
   ],
